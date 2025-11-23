@@ -1,9 +1,12 @@
 开源
-ai
-基础设施
+open source
 
 
 ai
 !gai
 人工智能
 +融资
+
+基础设施
+infra
++ai
